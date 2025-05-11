@@ -1,0 +1,14 @@
+📦 Welcome to Small Shop Inventory Tracker
+
+Menu:
+1. Add Item ➕
+2. Update Item ✏️
+3. Remove Item 🗑️
+4. View Inventory 📄
+5. Exit 🚪
+
+Enter your choice (1-5): 1
+Enter item name: Soap
+Enter quantity for Soap: 10
+Enter price per unit for Soap: ₹25
+✅ Soap added to inventory.
